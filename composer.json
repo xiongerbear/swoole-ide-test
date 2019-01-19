@@ -1,0 +1,17 @@
+{
+    "name": "xiongyoulong/swoole-ide-test",
+    "description": "php Swoole 封装",
+    "authors": [
+        {
+            "name": "xiongyoulong",
+            "email": "xiongyoulong@tangbull.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Swoole\\":"src/"
+        }
+    },
+    "require": {}
+}
